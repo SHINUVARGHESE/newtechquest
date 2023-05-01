@@ -3764,6 +3764,7 @@ body.layout-boxed #site-wrapper #site-footer {
 }
 h1.logo img {
 	width: 197px;
+	padding-top: 10px;
 }
 #masthead-sticky .brand {
   float: left;
